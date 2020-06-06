@@ -1,0 +1,9 @@
+openapi: 3.0.0
+info:
+  description: This project handles user registration, authentication and authorization for the Market Place system.
+  version: 1.0.0
+  title: Market Place Iam
+  contact:
+    name: Vanderson Assis
+    email: assis.vanderson@gmail.com
+paths:
